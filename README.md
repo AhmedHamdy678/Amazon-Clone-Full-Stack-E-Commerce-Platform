@@ -10,7 +10,7 @@ A fully functional, production-ready Amazon clone built with modern web technolo
 
 ## 🌐 Live Demo
 
-**Frontend:** [View Live Demo](https://your-deployment-url.web.app)  
+**Frontend:** [View Live Demo](https://author-e-clone.web.app/payment)  
 **Admin Panel:** Available for authenticated users
 
 > **Note:** Replace with your actual deployment URL after deploying to Firebase Hosting
@@ -417,9 +417,9 @@ in the Software without restriction...
 **Your Name**
 
 - Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/ahmed-hamdy-881b1826a/)
+- GitHub: [@yourusername](https://github.com/AhmedHamdy678)
+- Email: syda90215@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -435,6 +435,6 @@ in the Software without restriction...
   
 ### ⭐ Star this repository if you find it helpful!
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Ahmed Hamdy](https://github.com/AhmedHamdy678/)
 
 </div>
