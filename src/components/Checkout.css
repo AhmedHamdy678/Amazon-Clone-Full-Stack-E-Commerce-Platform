@@ -1,0 +1,48 @@
+.checkout{
+    /* padding: 20px ; */
+    background-color: #eaeded;
+    height: 100vh;
+}
+
+
+.checkout-summary{
+    border: 1px solid #dddddd;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border-radius: 3px;
+}
+
+.payment{
+    background-color: #eaeded;
+}
+
+.payment .count-item{
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.payment .count-item a{
+    color: #551a8b;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
