@@ -412,13 +412,13 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 ```
 
-## 📞 Contact
+## 📞 Contact (011155 61531)
 
 **Your Name**
 
 - Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
 - LinkedIn: (https://www.linkedin.com/in/ahmed-hamdy-881b1826a/)
-- GitHub: [@yourusername](https://github.com/AhmedHamdy678)
+- GitHub: (https://github.com/AhmedHamdy678)
 - Email: syda90215@gmail.com
 
 ## 🙏 Acknowledgments
