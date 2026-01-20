@@ -10,7 +10,7 @@ A fully functional, production-ready Amazon clone built with modern web technolo
 
 ## 🌐 Live Demo
 
-**Frontend:** [View Live Demo](https://author-e-clone.web.app/payment)  
+**Frontend:** [View Live Demo](https://author-e-clone.web.app/)  
 **Admin Panel:** Available for authenticated users
 
 > **Note:** Replace with your actual deployment URL after deploying to Firebase Hosting
